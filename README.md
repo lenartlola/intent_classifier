@@ -12,4 +12,4 @@ You can read about the technical details [here](https://lenartlola.github.io/ai/
 
 ## License
 
-This project is licensed under the MIT License. See LICENSE for more information.
+This project is licensed under the MIT License. See [LICENSE](https://github.com/lenartlola/intent_classifier/blob/main/LICENSE) for more information.
